@@ -2,3 +2,4 @@ example/*
 .ipynb_checkpoints/*
 ans/*
 data/*
+.ipynb_checkpoints
