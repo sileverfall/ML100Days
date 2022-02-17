@@ -12,6 +12,7 @@ pandas = "*"
 sklearn = "*"
 seaborn = "*"
 kaggle = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
